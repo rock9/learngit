@@ -4,3 +4,4 @@ Git is not easy
 Creating a new branch is quick and simple.
 add merge
 fixed bug
+stash test
