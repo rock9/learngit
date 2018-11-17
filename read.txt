@@ -1,4 +1,5 @@
 Git is a version郭显根 control system.
+Git is a version周文凯 control system.
 Git is free software distributed under the GPL.
 Git is not easy
 Creating a new branch is quick and simple.
